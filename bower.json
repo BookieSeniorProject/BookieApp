@@ -1,0 +1,19 @@
+{
+  "name": "bookie",
+  "version": "0.4.0",
+  "description": "The small library application for bookophiles or people who just need to log and keep track of their small library",
+  "dependencies": {
+    "bootstrap": "~3",
+    "angular": "~1.3",
+    "angular-resource": "~1.3",
+    "angular-animate": "~1.3",
+    "angular-mocks": "~1.3",
+    "angular-bootstrap": "~0.13",
+    "angular-ui-utils": "bower",
+    "angular-ui-router": "~0.2",
+    "angular-file-upload": "1.1.5"
+  },
+  "resolutions": {
+    "angular": "~1.3"
+  }
+}
